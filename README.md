@@ -1,6 +1,7 @@
 # Hyprland Config (But Spicier)
 
-Yes, this is an even more opinionated Hyprland setup than Omarchy. I need this setup to function properly and to not loose my sanity over the keybinds. Feel free to try it out!
+Yes, this is an even more opinionated Hyprland setup than Omarchy. I need this setup to function properly and to not loose my sanity over the keybinds. Similar to windows or End_4's config.
+Feel free to try it out!
 
 ## Installation
 1. Copy all files to your hypr folder:
@@ -13,7 +14,6 @@ Yes, this is an even more opinionated Hyprland setup than Omarchy. I need this s
     ```bash
     yay bibata-cursor-theme-bin 
     ```
-
 
 ## Changed Keybinds
 - `SUPER`: open Walker (should be the default honestly)
